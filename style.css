@@ -1,0 +1,101 @@
+body{
+
+    font-family: "Trirong", serif;
+    
+}
+
+
+
+
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 30px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
+
+#welcome{ 
+    
+    display:flex;
+    background-color: aqua;
+    height: 100vh; 
+    margin-top: 20px; 
+    justify-content: center;
+    align-items: center;
+    
+
+                  
+
+}
+
+section{
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+img{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+#projectss{ 
+    
+    display:flex;
+    background-color: blueviolet;
+    height: 100vh;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    
+                           
+
+}
+
+#mycontacts{
+
+    display:flex;
+    background-color: violet;
+    height: 100vh;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+
+.project{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+#navbar{
+    background-color: red;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
